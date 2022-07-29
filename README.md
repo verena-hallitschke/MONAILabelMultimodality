@@ -205,6 +205,10 @@ our [Slack channel](https://projectmonai.slack.com/archives/C031QRE0M1C).
 Ask and answer questions over
 on [MONAI Label's GitHub Discussions tab](https://github.com/Project-MONAI/MONAILabel/discussions).
 
+## About this Fork
+
+This fork contains updated 3D Slicer plugins, that can handle multimodal data. Please see the [NOTICE file](./NOTICE.md) for information on the changes.
+
 ## Links
 
 - Website: https://monai.io/
